@@ -8,4 +8,5 @@
 - 📫 How to reach me: https://kps.fyi/pj
 
 ![Patrick Jackson's github stats](https://github-readme-stats.vercel.app/api?username=particthistle&show_icons=true&theme=vue)
+
 Stats are an indicator of a slow burn on the Github learning curve.
