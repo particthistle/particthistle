@@ -1,7 +1,8 @@
 ### Patrick Jackson
 #### Team Leader, Joomla Volunteer Engagement Team
-#### Owner, KPS - a Joomla specialist agency in Melbourne Australia
+Interested in finding out more about getting involved in Joomla? Contact me to start a discussion!
 
+#### Owner, KPS - a Joomla specialist agency in Melbourne Australia
 - 🔭 I’m currently working on onboarding contributors to Joomla.
 - 🌱 I’m currently learning the nuances of Github to share with new contributors to Joomla.
 - 💬 Ask me about getting involved with Joomla, or email contact-vet -at- community.joomla.org 
