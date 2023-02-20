@@ -11,3 +11,5 @@ Interested in finding out more about getting involved in Joomla? [Contact me](ht
 ![Patrick Jackson's github stats](https://github-readme-stats.vercel.app/api?username=particthistle&show_icons=true&theme=vue)
 
 Stats are an indicator of a slow burn on the Github learning curve. Majority of Github activity is related to testing Joomla, <a href="https://issues.joomla.org/activity/user/joomla-cms" target="_blank">which is a whole different set of statistics</a>.
+
+[![An image of @particthistle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/particthistle)](https://holopin.io/@particthistle)
